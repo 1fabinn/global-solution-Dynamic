@@ -1,0 +1,232 @@
+{
+  "vertices": [
+    {
+      "id": 1721000,
+      "nome": "Palmas",
+      "risco": 0.38,
+      "custo": 520.0,
+      "populacao": 313494
+    },
+    {
+      "id": 2111300,
+      "nome": "Balsas",
+      "risco": 0.72,
+      "custo": 180.0,
+      "populacao": 87039
+    },
+    {
+      "id": 2101400,
+      "nome": "Alto Parnaíba",
+      "risco": 0.89,
+      "custo": 65.0,
+      "populacao": 13842
+    },
+    {
+      "id": 2105500,
+      "nome": "Imperatriz",
+      "risco": 0.51,
+      "custo": 380.0,
+      "populacao": 258016
+    },
+    {
+      "id": 2111532,
+      "nome": "São Raimundo Mangabeira",
+      "risco": 0.81,
+      "custo": 48.0,
+      "populacao": 15200
+    },
+    {
+      "id": 1703206,
+      "nome": "Araguaína",
+      "risco": 0.44,
+      "custo": 310.0,
+      "populacao": 180470
+    },
+    {
+      "id": 1707405,
+      "nome": "Gurupi",
+      "risco": 0.48,
+      "custo": 175.0,
+      "populacao": 90799
+    },
+    {
+      "id": 1716307,
+      "nome": "Porto Nacional",
+      "risco": 0.55,
+      "custo": 130.0,
+      "populacao": 53249
+    },
+    {
+      "id": 1707702,
+      "nome": "Guaraí",
+      "risco": 0.67,
+      "custo": 95.0,
+      "populacao": 24753
+    },
+    {
+      "id": 2207702,
+      "nome": "Picos",
+      "risco": 0.83,
+      "custo": 140.0,
+      "populacao": 76629
+    },
+    {
+      "id": 2208007,
+      "nome": "Piripiri",
+      "risco": 0.76,
+      "custo": 90.0,
+      "populacao": 60803
+    },
+    {
+      "id": 2210102,
+      "nome": "Teresina",
+      "risco": 0.41,
+      "custo": 670.0,
+      "populacao": 868075
+    },
+    {
+      "id": 2204202,
+      "nome": "Floriano",
+      "risco": 0.69,
+      "custo": 115.0,
+      "populacao": 61286
+    },
+    {
+      "id": 2910727,
+      "nome": "Barreiras",
+      "risco": 0.74,
+      "custo": 220.0,
+      "populacao": 156975
+    },
+    {
+      "id": 2918753,
+      "nome": "Luís Eduardo Magalhães",
+      "risco": 0.78,
+      "custo": 195.0,
+      "populacao": 89141
+    },
+    {
+      "id": 2933307,
+      "nome": "Vitória da Conquista",
+      "risco": 0.49,
+      "custo": 290.0,
+      "populacao": 340002
+    },
+    {
+      "id": 2900702,
+      "nome": "Bom Jesus da Lapa",
+      "risco": 0.82,
+      "custo": 80.0,
+      "populacao": 63000
+    },
+    {
+      "id": 1718402,
+      "nome": "Taguatinga",
+      "risco": 0.91,
+      "custo": 55.0,
+      "populacao": 17643
+    }
+  ],
+  "arestas": [
+    {
+      "u": 1721000,
+      "v": 1703206,
+      "peso": 360.0
+    },
+    {
+      "u": 1721000,
+      "v": 1716307,
+      "peso": 58.0
+    },
+    {
+      "u": 1721000,
+      "v": 1707405,
+      "peso": 246.0
+    },
+    {
+      "u": 2111300,
+      "v": 2105500,
+      "peso": 430.0
+    },
+    {
+      "u": 2111300,
+      "v": 2101400,
+      "peso": 280.0
+    },
+    {
+      "u": 2111300,
+      "v": 2111532,
+      "peso": 230.0
+    },
+    {
+      "u": 2111300,
+      "v": 2207702,
+      "peso": 490.0
+    },
+    {
+      "u": 2101400,
+      "v": 1718402,
+      "peso": 480.0
+    },
+    {
+      "u": 2105500,
+      "v": 1703206,
+      "peso": 610.0
+    },
+    {
+      "u": 1703206,
+      "v": 1707702,
+      "peso": 155.0
+    },
+    {
+      "u": 1707405,
+      "v": 1707702,
+      "peso": 91.0
+    },
+    {
+      "u": 1716307,
+      "v": 1718402,
+      "peso": 330.0
+    },
+    {
+      "u": 2207702,
+      "v": 2210102,
+      "peso": 312.0
+    },
+    {
+      "u": 2207702,
+      "v": 2204202,
+      "peso": 200.0
+    },
+    {
+      "u": 2208007,
+      "v": 2210102,
+      "peso": 175.0
+    },
+    {
+      "u": 2210102,
+      "v": 2204202,
+      "peso": 230.0
+    },
+    {
+      "u": 2204202,
+      "v": 2910727,
+      "peso": 830.0
+    },
+    {
+      "u": 2910727,
+      "v": 2918753,
+      "peso": 68.0
+    },
+    {
+      "u": 2918753,
+      "v": 2900702,
+      "peso": 360.0
+    },
+    {
+      "u": 2933307,
+      "v": 2900702,
+      "peso": 265.0
+    }
+  ]
+}

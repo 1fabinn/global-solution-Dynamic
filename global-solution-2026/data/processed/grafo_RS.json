@@ -1,0 +1,249 @@
+{
+  "vertices": [
+    {
+      "id": 4314902,
+      "nome": "Porto Alegre",
+      "risco": 0.45,
+      "custo": 1850.0,
+      "populacao": 1332570
+    },
+    {
+      "id": 4300406,
+      "nome": "Alegrete",
+      "risco": 0.61,
+      "custo": 210.0,
+      "populacao": 77653
+    },
+    {
+      "id": 4301602,
+      "nome": "Arroio do Meio",
+      "risco": 0.88,
+      "custo": 85.0,
+      "populacao": 18701
+    },
+    {
+      "id": 4302105,
+      "nome": "Bento Gonçalves",
+      "risco": 0.52,
+      "custo": 320.0,
+      "populacao": 121976
+    },
+    {
+      "id": 4304630,
+      "nome": "Canoas",
+      "risco": 0.79,
+      "custo": 780.0,
+      "populacao": 344572
+    },
+    {
+      "id": 4305108,
+      "nome": "Caxias do Sul",
+      "risco": 0.41,
+      "custo": 620.0,
+      "populacao": 503048
+    },
+    {
+      "id": 4307005,
+      "nome": "Eldorado do Sul",
+      "risco": 0.93,
+      "custo": 120.0,
+      "populacao": 40882
+    },
+    {
+      "id": 4307609,
+      "nome": "Encantado",
+      "risco": 0.87,
+      "custo": 75.0,
+      "populacao": 20987
+    },
+    {
+      "id": 4309209,
+      "nome": "Gramado",
+      "risco": 0.31,
+      "custo": 180.0,
+      "populacao": 36448
+    },
+    {
+      "id": 4309308,
+      "nome": "Gravataí",
+      "risco": 0.66,
+      "custo": 520.0,
+      "populacao": 272723
+    },
+    {
+      "id": 4310801,
+      "nome": "Lajeado",
+      "risco": 0.91,
+      "custo": 175.0,
+      "populacao": 82198
+    },
+    {
+      "id": 4311700,
+      "nome": "Montenegro",
+      "risco": 0.74,
+      "custo": 160.0,
+      "populacao": 61090
+    },
+    {
+      "id": 4312401,
+      "nome": "Novo Hamburgo",
+      "risco": 0.58,
+      "custo": 580.0,
+      "populacao": 238940
+    },
+    {
+      "id": 4313409,
+      "nome": "Passo Fundo",
+      "risco": 0.47,
+      "custo": 380.0,
+      "populacao": 211040
+    },
+    {
+      "id": 4314100,
+      "nome": "Pelotas",
+      "risco": 0.55,
+      "custo": 440.0,
+      "populacao": 342053
+    },
+    {
+      "id": 4314803,
+      "nome": "Rio Grande",
+      "risco": 0.49,
+      "custo": 300.0,
+      "populacao": 207434
+    },
+    {
+      "id": 4315602,
+      "nome": "Santa Cruz do Sul",
+      "risco": 0.63,
+      "custo": 250.0,
+      "populacao": 130921
+    },
+    {
+      "id": 4316808,
+      "nome": "São Leopoldo",
+      "risco": 0.71,
+      "custo": 430.0,
+      "populacao": 229398
+    },
+    {
+      "id": 4317202,
+      "nome": "Uruguaiana",
+      "risco": 0.58,
+      "custo": 190.0,
+      "populacao": 125507
+    }
+  ],
+  "arestas": [
+    {
+      "u": 4314902,
+      "v": 4304630,
+      "peso": 18.0
+    },
+    {
+      "u": 4314902,
+      "v": 4316808,
+      "peso": 32.0
+    },
+    {
+      "u": 4314902,
+      "v": 4312401,
+      "peso": 43.0
+    },
+    {
+      "u": 4314902,
+      "v": 4307005,
+      "peso": 44.0
+    },
+    {
+      "u": 4314902,
+      "v": 4309308,
+      "peso": 29.0
+    },
+    {
+      "u": 4314902,
+      "v": 4314100,
+      "peso": 272.0
+    },
+    {
+      "u": 4300406,
+      "v": 4317202,
+      "peso": 230.0
+    },
+    {
+      "u": 4300406,
+      "v": 4313409,
+      "peso": 350.0
+    },
+    {
+      "u": 4301602,
+      "v": 4310801,
+      "peso": 8.0
+    },
+    {
+      "u": 4301602,
+      "v": 4307609,
+      "peso": 20.0
+    },
+    {
+      "u": 4302105,
+      "v": 4312401,
+      "peso": 52.0
+    },
+    {
+      "u": 4302105,
+      "v": 4305108,
+      "peso": 122.0
+    },
+    {
+      "u": 4304630,
+      "v": 4307005,
+      "peso": 27.0
+    },
+    {
+      "u": 4305108,
+      "v": 4309209,
+      "peso": 36.0
+    },
+    {
+      "u": 4307609,
+      "v": 4310801,
+      "peso": 15.0
+    },
+    {
+      "u": 4309209,
+      "v": 4315602,
+      "peso": 120.0
+    },
+    {
+      "u": 4310801,
+      "v": 4311700,
+      "peso": 35.0
+    },
+    {
+      "u": 4311700,
+      "v": 4316808,
+      "peso": 28.0
+    },
+    {
+      "u": 4312401,
+      "v": 4316808,
+      "peso": 12.0
+    },
+    {
+      "u": 4313409,
+      "v": 4315602,
+      "peso": 157.0
+    },
+    {
+      "u": 4314100,
+      "v": 4314803,
+      "peso": 55.0
+    },
+    {
+      "u": 4314803,
+      "v": 4317202,
+      "peso": 600.0
+    }
+  ]
+}
