@@ -1,10 +1,10 @@
-# 🌿 Sistema de Monitoramento de Riscos Ambientais
+#  Sistema de Monitoramento de Riscos Ambientais
 ### Global Solution 2026 — FIAP | Dynamic Programming
 ### Disciplina: Estruturas de Dados e Algoritmos
 
 ---
 
-## 👥 Integrantes do Grupo
+##  Integrantes do Grupo
 
 | RA     | Nome                         |
 |--------|------------------------------|
@@ -15,7 +15,7 @@
 
 ---
 
-## 📋 Descrição
+##  Descrição
 
 Sistema computacional para monitoramento e triagem de riscos ambientais em municípios brasileiros, desenvolvido como solução para a **Global Solution 2026** da FIAP. O projeto aplica estruturas de dados avançadas (grafo ponderado, BST, heap) e algoritmos (Força Bruta com backtracking, Dijkstra guloso) para apoiar decisões de defesa civil em dois cenários reais:
 
@@ -24,7 +24,7 @@ Sistema computacional para monitoramento e triagem de riscos ambientais em munic
 
 ---
 
-## 🗂️ Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```
 global-solution-2026/
@@ -52,7 +52,7 @@ global-solution-2026/
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 ### Pré-requisitos
 
@@ -95,7 +95,7 @@ jupyter notebook notebooks/analise_resultados.ipynb
 
 ---
 
-## 🧩 Módulos
+##  Módulos
 
 ### `src/data_structures.py`
 - **`Grafo`**: grafo ponderado não-dirigido via dicionário de listas de adjacência. Escolha justificada: O(V+E) de espaço vs. O(V²) da matriz — adequado para grafos esparsos de municípios.
@@ -118,7 +118,7 @@ Dois grafos calibrados com dados reais:
 
 ---
 
-## 📊 Resultados Principais
+##  Resultados Principais
 
 ### Explosão Combinatória (Força Bruta)
 
@@ -138,7 +138,7 @@ Para N = 9–12: gap pode ser > 0% quando existem múltiplos caminhos com custos
 
 ---
 
-## 🌎 Alinhamento com ODS da ONU
+##  Alinhamento com ODS da ONU
 
 | ODS | Conexão com o projeto |
 |-----|----------------------|
@@ -149,7 +149,7 @@ Para N = 9–12: gap pode ser > 0% quando existem múltiplos caminhos com custos
 
 ---
 
-## 📚 Fontes de Dados
+##  Fontes de Dados
 
 - **Defesa Civil RS** — Relatório de Danos Abril/Maio 2024
 - **IBGE** — Populações estimadas 2022, malha municipal
@@ -160,7 +160,7 @@ Para N = 9–12: gap pode ser > 0% quando existem múltiplos caminhos com custos
 
 ---
 
-## 📦 Dependências
+##  Dependências
 
 ```
 matplotlib>=3.7
